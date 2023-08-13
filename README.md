@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4211FF&background=24831200&width=435&lines=HELLO+WORLD+-+INCODE;Reverse+%26%26+Kernel+Developer)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4503ad&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4211FF&background=24831200&width=435&lines=Salve+Salve+Fella+eu+Sou+o+incode;estudo+Reversing+%26%26+Kernel+Developer;Tamo+junto+galera!)](https://git.io/typing-svg)
 
 
 <!-- Título -->
@@ -23,7 +25,7 @@ Desenvolvedor entusiasta com um olhar atento aos detalhes. Sempre em busca de no
 - 🌱 Atualmente estou aprendendo mais sobre arquitetura de software.
 - 👯 Estou procurando colaborar em projetos interessantes.
 - 💬 Pergunte-me sobre tecnologia, programação e música!
-- 📫 Como me encontrar: seu-email@example.com
+- 📫 Como me encontrar: as vezes no discord.
 - ⚡ Curiosidade: Sou um viciado em café e adoro resolver quebra-cabeças.
 
 <!-- Tecnologias -->
@@ -49,3 +51,5 @@ Se você deseja contribuir para algum dos meus projetos, fique à vontade para f
 <!-- Rodapé -->
 ---
 **Nota**: Este é apenas um exemplo de como você pode criar um README.md personalizado para o seu perfil do GitHub. Sinta-se à vontade para personalizar as seções, links e informações de acordo com o seu perfil e preferências.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4503ad&height=120&section=footer"/>

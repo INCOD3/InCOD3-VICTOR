@@ -4,7 +4,8 @@
 
 
 <!-- Título -->
-# Olá! Eu sou o 2DOLLA 👋
+# Olá! Seja bem vindo ao meu Perfil Github,creditos a outros perfis a qual usei codigo desse
+Readme.md👋
 
 <!-- Descrição -->
 Sou apaixonado por programação e adoro criar soluções tecnológicas. Bem-vindo ao meu cantinho digital!
